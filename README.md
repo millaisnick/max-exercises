@@ -1,3 +1,4 @@
-# max-exercises
-Exercices de mathématiques
+# Exercices de mathématiques
+
+Todo.
 
